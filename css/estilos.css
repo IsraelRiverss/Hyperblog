@@ -51,6 +51,10 @@ body
     background: white;
     padding: 1em;
 }
+#minion_image
+{
+    text-align: center;
+}
 #footer
 {
     background: #777;
